@@ -83,3 +83,20 @@ npm run dev
 ```
 
 ---
+
+## Capturas de Pantalla
+
+### 🔐 Login
+![Login](https://github.com/michel080502/AppConsultorio-Frontend/blob/main/assets/screenshots/login.png?raw=1)
+
+### 🏠 Dashboard
+![Dashboard](https://github.com/michel080502/AppConsultorio-Frontend/blob/main/assets/screenshots/dashboard.png?raw=1)
+
+### ➕ Agregar Paciente
+![Agregar Paciente](https://github.com/michel080502/AppConsultorio-Frontend/blob/main/assets/screenshots/agregaPaciente.png?raw=1)
+
+### 👤 Edición de Perfil
+![Edición de Perfil](https://github.com/michel080502/AppConsultorio-Frontend/blob/main/assets/screenshots/edicionPerfil.png?raw=1)
+
+### 📬 Vista de Correo
+![Vista de Correo](https://github.com/michel080502/AppConsultorio-Frontend/blob/main/assets/screenshots/vistaMail.png?raw=1)
